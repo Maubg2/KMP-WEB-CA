@@ -17,11 +17,6 @@
     <!-- https://mvnrepository.com/artifact/org.primefaces/primefaces --> 
   </build>
   <dependencies>
-		<dependency>
-		    <groupId>org.primefaces</groupId>
-		    <artifactId>primefaces</artifactId>
-		    <version>13.0.1</version>
-		</dependency>
 		<!-- JSF dependencies -->
 		<dependency>
 			<groupId>com.sun.faces</groupId>
