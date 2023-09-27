@@ -22,5 +22,16 @@
 		    <artifactId>primefaces</artifactId>
 		    <version>13.0.1</version>
 		</dependency>
+		<!-- JSF dependencies -->
+		<dependency>
+			<groupId>com.sun.faces</groupId>
+			<artifactId>jsf-api</artifactId>
+			<version>2.2.2</version>
+		</dependency>
+		<dependency>
+			<groupId>com.sun.faces</groupId>
+			<artifactId>jsf-impl</artifactId>
+			<version>2.2.2</version>
+		</dependency>
     </dependencies>
 </project>
